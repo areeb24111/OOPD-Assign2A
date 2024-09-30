@@ -1,0 +1,36 @@
+Department,Name,Position,Room,Phone,Email
+CSE,Sambuddho Chakravarty,HoD,Room B-503 (R&D Block),011-26907478,sambuddho@iiitd.ac.in
+CSE,Vivek Kumar,Faculty,Room B-506 (R&D Block),011-26907441,vivekk@iiitd.ac.in
+CSE,Jainendra Shukla,Faculty,Room A-410 (R&D Block),011-26907523,jainendra@iiitd.ac.in
+CSE,Arun Balaji Buduru,Faculty,Room B-504 (R&D Block),011-26907469,arunb@iiitd.ac.in
+CSE,Mukulika Maity,Faculty,Room B-509 (R&D Block),011-26907471,mukulika@iiitd.ac.in
+
+ECE,A V Subramanyam,HoD,Room B-604 (R&D Block),+91 011-26907437,subramanyam@iiitd.ac.in
+ECE,Anuj Grover,Faculty,Room A-610 (R&D Block),011-26907494,anuj@iiitd.ac.in
+ECE,Ranjitha Prasad,Faculty,Room A-403 (R&D Block),011-26907357,ranjitha@iiitd.ac.in
+ECE,Debidas Kundu,Faculty,Room A-606 (R&D Block),011-26907465,debidas@iiitd.ac.in
+ECE,Sayan Basu Roy,Faculty,Room A-603 (R&D Block),011-26907559,sayan@iiitd.ac.in
+
+Math,Kaushik Kalyanaraman,HoD,Room B-302 (R&D Block),011-26907537,kaushik@iiitd.ac.in
+Math,Anuradha Sharma,Faculty,Room B-311 (R&D Block),011-26907534,anuradha@iiitd.ac.in
+Math,Ashish Kumar Pandey,Faculty,Room B-307 (R&D Block),011-26907461,ashish.pandey@iiitd.ac.in
+Math,Nabanita Ray,Faculty,Room B-312 (R&D Block),011-26907464,nabanita@iiitd.ac.in
+Math,Rajiv Raman,Faculty,Room B-507 (R&D Block),011-26907573,rajiv@iiitd.ac.in
+
+SSH,Kiriti Kanjilal,HoD,Room B-208 (R&D Block),011-26907558,kanjilal@iiitd.ac.in
+SSH,Aasim Khan,Faculty,Room B-202 (R&D Block),011-26907463,aasim@iiitd.ac.in
+SSH,Deepak Prince,Faculty,Room A-210 (R&D Block),011-26907595,deepak@iiitd.ac.in
+SSH,Gaurav Arora,Faculty,Room B-206 (R&D Block),011-26907547,gaurav@iiitd.ac.in
+SSH,Gayatri Nair,Faculty,Room B-212 (R&D Block),011-26907362,gayatri@iiitd.ac.in
+
+CB,G P S Raghava,HoD,Room A-302 (R&D Block),011-26907444,gp.raghava@iiitd.ac.in
+CB,Arjun Ray,Faculty,Room A-310 (R&D Block),011-26907438,arjun@iiitd.ac.in
+CB,Debarka Sengupta,Faculty,Room A-306 (R&D Block),011-26907446,debarka@iiitd.ac.in
+CB,Ganesh Bagler,Faculty,Room A-305 (R&D Block),011-26907443,bagler@iiitd.ac.in
+CB,Gaurav Ahuja,Faculty,Room A-303 (R&D Block),011-26907475,gaurav.ahuja@iiitd.ac.in
+
+HCD,Richa Gupta,HoD,Room A-406 (R&D Block),011-26907368,richa.gupta@iiitd.ac.in
+HCD,Anmol Srivastava,Faculty,Room A-404 (R&D Block),011-26907467,anmol@iiitd.ac.in
+HCD,Kalpana Shankhwar,Faculty,Room A-403 (R&D Block),011-26907496,kalpana@iiitd.ac.in
+HCD,Pragma Kar,Faculty,Room A-411 (R&D Block),011-26907450,pragma@iiitd.ac.in
+HCD,Sonal Keshwani,Faculty,Room A-405 (R&D Block),011-26907521,sonal.keshwani@iiitd.ac.in
