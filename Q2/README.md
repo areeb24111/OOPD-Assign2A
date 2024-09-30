@@ -9,5 +9,4 @@
 	g++ -O3 -o optimize2 q2.o
 
 
-	
 Have used some references from Chatgpt 
